@@ -1,0 +1,10 @@
+# Sample localization file for English. Add more files in this directory for other locales.
+# See https://github.com/svenfuchs/rails-i18n/tree/master/rails%2Flocale for starting points.
+
+en:
+  delayed_dispatch_flat_rate: Fixed Amount(delayable)
+  delay_dispatch: Delay Dispatch
+  delay_dispatch_hint: 'You can delay the shipping so during those days your orders will be added to this shipment and you wont have to pay for extra shipments!'
+  whats_this: Whats this?
+  days: days
+  accumulated_dispatch_notification: You have a delayed dispatch so you dont have shipping cost in any other you make today!

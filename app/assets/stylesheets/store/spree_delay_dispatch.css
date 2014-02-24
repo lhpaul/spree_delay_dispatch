@@ -1,0 +1,17 @@
+/*
+ *= require store/spree_frontend
+*/
+#delay_dispatch_wrapper{
+	margin-top: 50px;
+}
+#delay_dispatch_option{
+	overflow: hidden;
+}
+#delay_dispatch_option h5{
+	float: left;
+	margin-right: 13px;
+}
+#delay_dispatch_option .label{
+	margin-top: 10px;
+}
+
