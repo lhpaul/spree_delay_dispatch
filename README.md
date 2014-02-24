@@ -9,7 +9,7 @@ Installation
 Add spree_delay_dispatch to your Gemfile:
 
 ```ruby
-gem 'spree_delay_dispatch', :git => ''
+gem 'spree_delay_dispatch', :git => 'https://github.com/lhpaul/spree_delay_dispatch'
 gem 'foundation-rails'
 ```
 
